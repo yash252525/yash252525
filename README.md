@@ -18,11 +18,11 @@ I have architected solutions across the entire SDLC, from code commit to observa
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **☁️ Cloud & Infrastructure** | **AWS** (EKS, EC2, VPC, Lambda, S3), **Terraform** (IaC), **Ansible** (Config Mgmt) |
-| **☸️ Orchestration** | **Kubernetes** (CKA), **Docker**, **Docker Swarm**, **Helm**, **ArgoCD** (GitOps) |
+| **☸️ Orchestration** | **Kubernetes** (CKA), **Docker**, **Docker Swarm**, **Helm**, **Kustomize**, **ArgoCD** (GitOps) |
 | **⚙️ CI/CD & Automation** | **Jenkins**, **GitHub Actions**, **GitLab CI**, **PowerShell**, **Shell Scripting** |
 | **👀 Observability** | **OpenTelemetry**, **Prometheus**, **Grafana**, **ELK Stack**, **Zabbix** |
 | **💻 Backend & API** | **Python** (Flask, FastAPI), **Node.js**, **GraphQL**, **Go** |
-| **🧠 AI & Data** | **PyTorch**, **Streamlit**, **Pandas**, **PostgreSQL**, **MongoDB**, **MySQL**, **DynamoDB** |
+| **🧠 AI & Data** | **RAG**, **PyTorch**, **Streamlit**, **Pandas**, **PostgreSQL**, **MongoDB**, **MySQL**, **DynamoDB** |
 
 ---
 
@@ -50,5 +50,4 @@ Unlike traditional SysAdmins, I code.
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-zore/](https://www.linkedin.com/in/ysz252525/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysz252525/)
