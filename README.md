@@ -7,7 +7,7 @@ I don't just "maintain" servers; I engineer **automated, resilient platforms**. 
 
 * 🌍 **Location:** Birmingham, UK (Graduate Route Visa - No Sponsorship Required)
 * 🧠 **Core Philosophy:** "If you have to do it twice, automate it."
-* 💼 **Experience:** Ex-SRE @ Dassault Systèmes, DevOps @ Reliance Jio.
+* 💼 **Experience:** Ex DevOps/SRE @ Dassault Systèmes, DevOps @ Reliance Jio.
 
 ---
 
